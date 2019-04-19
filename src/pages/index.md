@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great Chocolate
-image: /img/brokenchocolate.jpg
+image: /img/cocobeans.jpg
 heading: Great Chocolate for All
 subheading: Enjoy the delicious taste of chocolate
 mainpitch:
