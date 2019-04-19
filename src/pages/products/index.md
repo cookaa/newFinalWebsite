@@ -82,15 +82,15 @@ pricing:
         - One or two varieties of chocolate"
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: 'Great for avid eaters, coco-loving couples and bigger crowds'
       items:
         - 6 lbs of chocolate per month
         - Fresh coco beans
         - Up to 4 different varieties of coco beans
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Send us a
-      message and try our custom plan
+    - description: 'Want a few tiny batches from different varieties? Send us a
+      message and try our custom plan.'
       items:
         - Whatever you need
         - Any toppings
