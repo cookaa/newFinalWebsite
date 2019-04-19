@@ -94,7 +94,7 @@ pricing:
       items:
         - Whatever you need
         - Any toppings
-        - Unlimited varieties
+        - Just let us know
       plan: Custom
-      price: 'Custom'
+      price: '??'
 ---
