@@ -1,14 +1,12 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Our Chocolate
+image: /img/rasbar.jpg
+heading: Great Chocolate with a conscience
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Cook's Chocolate is the ultimate spot for chocolate lovers who want to learn about their
+  coco's origin and support the farmers that grew it. We take the love of chocolate seriously and we’re glad to pass that passion onto others.
 intro:
   blurbs:
     - image: /img/coffee.png
