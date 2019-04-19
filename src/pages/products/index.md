@@ -2,8 +2,8 @@
 templateKey: 'product-page'
 path: /products
 title: Our Chocolate
-image: /img/rasbar.jpg
-heading: Great Chocolate with a conscience
+image: /img/brokenchocolate.jpg
+heading: Great Chocolate With a Conscience
 description: >-
   Cook's Chocolate is the ultimate spot for chocolate lovers who want to learn about their
   coco's origin and support the farmers that grew it. We take the love of chocolate seriously and we’re glad to pass that passion onto others.
@@ -57,7 +57,7 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/cocobeans.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
