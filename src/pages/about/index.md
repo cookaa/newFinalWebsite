@@ -16,4 +16,4 @@ Sustainable agriculture is farming in sustainable ways based on an understanding
 Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between maker and enjoyer, along with systems that encourage and incentivize quality.
 
 ### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into local businesses and farms.
+We want to truly empower the communities that bring amazing chocolate to you. That’s why we reinvest 20% of our profits are reinvested into local businesses and farms.
