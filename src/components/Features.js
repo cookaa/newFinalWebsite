@@ -19,7 +19,7 @@ const FeatureGrid = ({ gridItems }) => (
           </div>
           <p>{item.text}</p>
           <div className="has-text-centered">
-            {{item.form}}
+            {item.form}
           </div>
         </section>
       </div>
