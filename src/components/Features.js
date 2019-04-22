@@ -18,6 +18,9 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p>{item.text}</p>
+          <div className="has-text-centered">
+            {{item.form}}
+          </div>
         </section>
       </div>
     ))}
@@ -29,6 +32,7 @@ FeatureGrid.propTypes = {
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
       text: PropTypes.string,
+      form: PropTypes.string,
     })
   ),
 }
