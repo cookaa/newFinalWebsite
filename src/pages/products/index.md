@@ -9,7 +9,7 @@ description: >-
   coco's origin and support the farmers that grew it. We take the love of chocolate seriously and we’re glad to pass that passion onto others.
 intro:
   blurbs:
-    - image: /img/chocolate.png
+    - image: /img/coffee.png
       text: >
         We sell green and roasted chocolate beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -32,7 +32,7 @@ intro:
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-    - image: /img/chocolate-gear.png
+    - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
