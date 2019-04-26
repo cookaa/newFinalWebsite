@@ -38,7 +38,7 @@ intro:
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-      Form:
+      form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
         <table>
@@ -54,8 +54,6 @@ intro:
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-
-
     - image: /img/milk.jpg
       text: >
         Love a great cup of chocolate, but never knew how to make one? Bought a
@@ -63,6 +61,21 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about chocolate roasting and brewing.
         Email us or call the store for details.
+      form:
+        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <table>
+        <tr><td><input type="hidden" name="on0" value="Toppings">Toppings</td></tr><tr><td><select name="os0">
+        <option value="Rasberries">Rasberries $2.00 USD</option>
+        <option value="Almonds">Almonds $2.00 USD</option>
+        <option value="Blueberries">Blueberries $2.00 USD</option>
+        <option value="Hazelnuts">Hazelnuts $2.00 USD</option>
+        </select> </td></tr>
+        </table>
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
     - image: /img/toppings.jpg
       text: >
         We believe that good chocolate has the power to bring people together.
