@@ -13,14 +13,8 @@ export default class Index extends React.Component {
       <p>
       This will be a location for different cart items
       </p>
-      // <ul>
-      // <li>
-      // <Link to="/contact">Basic contact form</Link>
-      // </li>
-      // <li>
-      // <Link to="/contact/file-upload/">Form with file upload</Link>
-      // </li>
-      // </ul>
+      <p>
+      </p>
       </div>
       </div>
       </section>

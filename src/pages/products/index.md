@@ -38,6 +38,24 @@ intro:
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
+      Form:
+        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <table>
+        <tr><td><input type="hidden" name="on0" value="Toppings">Toppings</td></tr><tr><td><select name="os0">
+        <option value="Rasberries">Rasberries $2.00 USD</option>
+        <option value="Almonds">Almonds $2.00 USD</option>
+        <option value="Blueberries">Blueberries $2.00 USD</option>
+        <option value="Hazelnuts">Hazelnuts $2.00 USD</option>
+        </select> </td></tr>
+        </table>
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+
+
     - image: /img/milk.jpg
       text: >
         Love a great cup of chocolate, but never knew how to make one? Bought a
