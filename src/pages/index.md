@@ -13,37 +13,30 @@ mainpitch:
     Every purchase helps support coco farms, and a college student in love with chocolate.
     All of our chocolate is selected, and ensured to be of highest quality.
 description: >-
-  Cook's is the ultimate spot for chocolate lovers who want to learn about their
-  chocolate origin and support those who made it happen. We take crafting chocolate
-  seriously and we’re glad to pass the passion and knowledge on to all interested.
+  Cook's is the ultimate spot for chocolate lovers who want to create a custom chocolate
+  bar. We provide custom made chocolate with a selection of options to choose from.
+  In addition, we offer kits that let you learn how to make your own chocolate!
+  If you're interested, read some of our blogs to learn about the origin of the coco
+  bean and how modern day chocolate has developed. We take crafting chocolate
+  seriously and we’re glad to pass the passion and knowledge on to all interested!
 intro:
   blurbs:
     - image: /img/dark.png
       text: >
-        We sell chocolate bars with different options so everyone can find What
-        they're looking for. We also provide chocolate kits for people who would
-        like to try making their own chocolate. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Dark Chocolate is a personal favorite. It is rich and full of flavor, without
+        being overbearingly sweet or bitter.
+    - image: /img/white.png
       text: >
-        We offer a small, but carefully curated selection of gear and
-        tools for every taste and experience level. No matter if you just want
-        to make cookies, or a cake, you’ll find a gadget to fall in love with
-        in our shop.
-    - image: /img/tutorials.png
+        White Chocolate offers a very creamy taste of chocolate, going great with
+        some nuts or dark chocolate chips.
+    - image: /img/milk.png
       text: >
-        Love a great bar of chocolate, but never knew how to make one? Have all
-        the ingredients but have no clue how to make it? Don't worry, we’re here
-        to help! You can schedule a custom 1-on-1 consultation with us or follow
-        our tutorials to learn anything you want to know about the craft of
-        chocolate.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Milk Chocolate is loved across so many. It is sweet and delicious. Just
+        wait till you try it with some toppings!
+    - image: /img/toppings.png
       text: >
-        We believe that good Chocolate has the power to bring people together.
-        That’s why we decided to offer family kits so that everyone in the family
-        can get involved making delicious fresh chocolate. It allows kids and
-        parents to work together and make a great treat!
+        We have selected some of our personal favorite additions for chocolate,
+        including: almonds, dried blueberries, raspberries, coconut, and hazelnuts.
   heading: What we offer
   description: >
     Cook's Chocolates is the ultimate spot for coffee lovers who want to learn about their
