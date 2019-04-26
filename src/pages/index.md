@@ -2,19 +2,20 @@
 templateKey: index-page
 title: Great Chocolate
 image: /img/brokenchocolate.jpg
-heading: Great Chocolate for All
+heading: Brining Custom Chocolate
 subheading: Enjoy the delicious taste of chocolate
 mainpitch:
   title: Why Cook's
   description: >
-    Cook's Chocolate is for everyone who believes that great chocolate
-    shouldn't just taste good, it should do good too. All of our chocolate is
-    hand made with craft and care.
+    Here at Cook's Chocolates, we believe that delicious chocolate should be shared
+    with family and friends. We provide a high quality, custom chocolate chocolate
+    experience. Chocolate shouldn't just taste good, it should do good as well.
+    Every purchase helps support coco farms, and a college student in love with chocolate.
+    All of our chocolate is selected, and ensured to be of highest quality.
 description: >-
   Cook's is the ultimate spot for chocolate lovers who want to learn about their
-  beans's origin and support those who made it happen. We take crafting chocolate
-  seriously and we’re glad to pass that knowledge to you.
-  anyone.
+  chocolate origin and support those who made it happen. We take crafting chocolate
+  seriously and we’re glad to pass the passion and knowledge on to all interested.
 intro:
   blurbs:
     - image: /img/coffee.png
