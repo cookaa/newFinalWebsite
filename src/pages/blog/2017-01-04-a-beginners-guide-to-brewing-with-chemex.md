@@ -1,27 +1,27 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: How Cocoa Is Grown (From Bean to Bar)
+date: 2019-02-04T15:04:10.000Z
+description: Ever wondered how chocolate is made? Here we try to explain the steps taken to get the cocoa bean from the tree to the bar that we all love and enjoy.
 tags:
-  - brewing
-  - chemex
+  - cocoa beans
+  - chocolate
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/cocoaTree.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+This week we’ll take a look at all the steps required to make astonishing chocolate. The bean goes through many steps, starting out in communities across the world in west Africa and Asia. We communicate with local farmers to get their side of the story, and then will tell you how it is that the cocos are made into the bars.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Learn more here at [Cocoa Growing](https://www.cocoalife.org/in-the-cocoa-origins/a-story-on-farming-cocoa-growing) where they have lots of information on how cocoa is grown. _"Growing cocoa is no simple task"_, and so is included in the the story of how the pods of cocoa are grown
 
-## The little secrets of Chemex brewing
+## The Little Secrets of Growing Cocoa
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+The chocolate that we know has to come from somewhere, and that somewhere is a warm environment, with some love and care. Cocoa beans are the beans off out of pods of the Theobroma cacao, or commonly known as the cocoa tree. Cocoa beans must go through a number of steps before they can be used for chocolate. Here’s a quick list of the important steps they go through:
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+1. **Growing** Cocoa is delicate, and must be tended. Pods come around year 5.
+2. **Harvesting** Pods are harvested twice a year, using steel tools.
+3. **Drying** Grows in pods that need to be fermented and dried.
+4. **Transporting** Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Growing these beans is a delicate process, where the
+trees have to be sheltered from wind and the sun. They also require fertilization in order to ensure that they grow to full maturity, and can produce fruit. For harvesting, long-handled steel tools in order to cut down the pods without wounding the soft bark of the tree.
+A large section of the taste and quality of the beans comes post harvest. Processing of the bean has the biggest impact on the cocoa taste. After the farmer removes the beans from the pods, he then heaps them into piles, and covers them with mats or banana leaves for three to seven days. The layer of pulp that naturally surrounds the beans heats up and ferments the beans, which enhances the cocoa flavor. The beans are then dried in the sun for several days.

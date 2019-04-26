@@ -9,7 +9,7 @@ Coco beans, the main ingredient in chocolate is grown on  a small tree or shrub 
 ### Make Lots of Recipes
 There are lots of different of different recipes you can make with the chocolate, such as banana bread, chocolate chip cookies, hot chocolate, chocolate with pastries or fruit, make it into cake, or just enjoy it by itself! There are hundreds of ideas of different things that you can do with chocolate.
 
-### Sustainable farming
+### Sustainable Farming
 Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
 ### Direct sourcing

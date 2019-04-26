@@ -1,25 +1,23 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'Why Eat Chocolate'
+date: 2019-01-22T15:04:10.000Z
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
   Mountain coffee beans in our store next week.
 tags:
-  - jamaica
-  - green beans
+  - health
+  - long age
   - flavor
-  - tasting
+  - taste
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
+We all know that chocolate is delicious, but is it good for us? Something that tastes this good cant possibly help us with motivation and energy. But science says otherwise!
 Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
 
-## A little history
+## Not Just Caffeine
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
+The really cool energy-giving molecule in coffee is called theobromine. Theobromin is the primary alkaloid found in cocoa that is responsible for multiple positive effects, one of which is similar to the affects of caffeine. Although theobromine is present in other plants, there’s a high contentration in dark chocolate, with measures between 237-519 mg per 50g.
 >Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
 This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
