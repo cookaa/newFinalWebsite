@@ -9,11 +9,11 @@ tags:
 ---
 ![chemex](/img/cocoaTree.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing chocolate. The bean goes through many steps, starting out in communities across the world in west Africa and Asia. We communicate with local farmers to get their side of the story, and then will tell you how it is that the cocos are made into the bars.
+This week we’ll take a look at all the steps required to make astonishing chocolate. The bean goes through many steps, starting out in communities across the world in west Africa and Asia. We communicate with local farmers to get their side of the story, and then will tell you how it is that the cocos are made into the bars.
 
 Learn more here at [Cocoa Growing](https://www.cocoalife.org/in-the-cocoa-origins/a-story-on-farming-cocoa-growing) where they have lots of information on how cocoa is grown. _"Growing cocoa is no simple task"_, and so is included in the the story of how the pods of cocoa are grown
 
-## The little secrets of cocoa growing
+## The Little Secrets of Growing Cocoa
 
 The chocolate that we know has to come from somewhere, and that somewhere is a warm environment, with some love and care. Cocoa beans are the beans off out of pods of the Theobroma cacao, or commonly known as the cocoa tree. Cocoa beans must go through a number of steps before they can be used for chocolate. Here’s a quick list of the important steps they go through:
 
