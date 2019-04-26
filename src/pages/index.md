@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great Chocolate
+title: Cook's Chocolates
 image: /img/brokenchocolate.jpg
 heading: Brining Custom Chocolate
 subheading: Enjoy the delicious taste of chocolate
@@ -18,7 +18,7 @@ description: >-
   seriously and we’re glad to pass the passion and knowledge on to all interested.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/dark.png
       text: >
         We sell chocolate bars with different options so everyone can find What
         they're looking for. We also provide chocolate kits for people who would
