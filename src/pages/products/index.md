@@ -2,7 +2,7 @@
 templateKey: 'product-page'
 path: /products
 title: Our Chocolate
-image: /img/brokenchocolate.jpg
+image: /img/cocobeans.jpg
 heading: Great Chocolate With a Conscience
 description: >-
   Cook's Chocolate is the ultimate spot for chocolate lovers who want to learn about their
@@ -117,7 +117,7 @@ main:
     image: /img/cookedcookies.jpg
   image3:
     alt: chocolate beans
-    image: /img/cocobeans.jpg
+    image: /img/cookies.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
