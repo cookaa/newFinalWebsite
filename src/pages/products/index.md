@@ -121,12 +121,11 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s chocolate, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      The first time I tried Cook's Chocolate, I couldn’t even believe that I
+      have been eating chocolate all my life.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality chocolate. I love their
-      stance on empowering farmers and transparency.
+      Cook's Chocolate is the place to go if you want the best quality chocolate. I love their toppings and options!
 full_image: /img/widecakes.jpg
 pricing:
   heading: Monthly subscriptions
@@ -135,19 +134,19 @@ pricing:
     monthly subscription plans to receive chocolate at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the chocolate lovers who just want a bar a day.
+    - description: Perfect for the chocolate lovers wanting a bar here and there.
       items:
-        - 3 lbs of chocolate per month
-        - 3 lbs of your selection of toppings"
-        - One or two varieties of chocolate"
+        - 10 bars of chocolate per month
+        - Your selection of toppings
+        - One or two varieties of chocolate
       plan: Small
       price: '20'
     - description: 'Great for avid eaters, coco-loving couples and bigger crowds'
       items:
-        - 6 lbs of chocolate per month
-        - Fresh coco beans
-        - Up to 4 different varieties of coco beans
-      plan: Big
+        - 100 bars of chocolate per month
+        - Your selection of toppings
+        - Up to 3 different types of chocolate
+      plan: Large
       price: '80'
     - description: 'Want a few tiny batches from different varieties? Send us a
       message and try our custom plan.'
