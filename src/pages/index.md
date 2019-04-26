@@ -21,19 +21,19 @@ description: >-
   seriously and we’re glad to pass the passion and knowledge on to all interested!
 intro:
   blurbs:
-    - image: /img/dark.png
+    - image: /img/dark.jpg
       text: >
         Dark Chocolate is a personal favorite. It is rich and full of flavor, without
         being overbearingly sweet or bitter.
-    - image: /img/white.png
+    - image: /img/white.jpg
       text: >
         White Chocolate offers a very creamy taste of chocolate, going great with
         some nuts or dark chocolate chips.
-    - image: /img/milk.png
+    - image: /img/milk.jpg
       text: >
         Milk Chocolate is loved across so many. It is sweet and delicious. Just
         wait till you try it with some toppings!
-    - image: /img/toppings.png
+    - image: /img/toppings.jpg
       text: >
         We have selected some of our personal favorite additions for chocolate,
         including: almonds, dried blueberries, raspberries, coconut, and hazelnuts.

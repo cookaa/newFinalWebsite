@@ -9,7 +9,7 @@ description: >-
   coco's origin and support the farmers that grew it. We take the love of chocolate seriously and we’re glad to pass that passion onto others.
 intro:
   blurbs:
-    - image: /img/dark.png
+    - image: /img/dark.jpg
       text: >
         We sell green and roasted chocolate beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -32,20 +32,20 @@ intro:
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-    - image: /img/white.png
+    - image: /img/white.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/milk.png
+    - image: /img/milk.jpg
       text: >
         Love a great cup of chocolate, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about chocolate roasting and brewing.
         Email us or call the store for details.
-    - image: /img/toppings.png
+    - image: /img/toppings.jpg
       text: >
         We believe that good chocolate has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
