@@ -39,17 +39,16 @@ intro:
         including: almonds, dried blueberries, raspberries, coconut, and hazelnuts.
   heading: What we offer
   description: >
-    Cook's Chocolates is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Cook's Chocolates is the ultimate spot for coffee lovers who want to learn.
+    We take making chocolate seriously and we’re glad to pass that
+    knowledge to anyone.
 main:
-  heading: Great coffee with no compromises
+  heading: Great Chocolate
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our chocolate to the highest standards from the bean to the bar.
+    That’s why we’re meticulous and transparent about each step of the
+    journey. We personally check each bar to make sure the coco is of highest
+    quality, and that it is helping the farmers and the local environment.
   image1:
     alt: A close-up of a paper filter
     image: /img/products-grid3.jpg

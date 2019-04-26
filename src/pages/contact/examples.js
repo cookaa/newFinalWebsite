@@ -11,7 +11,7 @@ export default class Index extends React.Component {
       <div className="content">
       <h1>Cart</h1>
       <p>
-      This will be a location for different cart items
+      Add something to your cart and it will pop up automatically!
       </p>
       </div>
       </div>
