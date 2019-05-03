@@ -43,7 +43,7 @@ intro:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
         <table>
-        <tr><td><input type="hidden" name="on0" value="Toppings">Toppings</td></tr><tr><td><select name="os0">
+        <tr><td><input type="hidden" name="on0" value="White Chocolate">Toppings</td></tr><tr><td><select name="os0">
         <option value="Rasberries">Rasberries $2.00 USD</option>
         <option value="Almonds">Almonds $2.00 USD</option>
         <option value="Blueberries">Blueberries $2.00 USD</option>
