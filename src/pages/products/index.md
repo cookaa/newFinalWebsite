@@ -93,15 +93,17 @@ intro:
         </form>
   heading: View Your Cart
   description: >
-    Cook's Chocolate is the ultimate spot for chocolate lovers who want to learn about their
-    beans origin support the farmers that grew it. We take chocolate
-    seriously and we’re glad to pass that passion along for everyone!
+    Kaldi is the ultimate spot for chocolate lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take chocolate
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 main:
   heading: Great chocolate with no compromises
   description: >
-    We hold our chocolate to the highest standards from the tree to the box.
+    We hold our chocolate to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the chocolate’s
-    journey. We personally ensure each bar is perfect.
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground chocolate
     image: /img/chocolatecookies.jpg
