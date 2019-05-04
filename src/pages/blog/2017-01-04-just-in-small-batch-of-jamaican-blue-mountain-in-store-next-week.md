@@ -3,8 +3,7 @@ templateKey: 'blog-post'
 title: 'History of Chocolate'
 date: 2019-01-22T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Learn more about the origins of chocolate and how it came to be one of the worlds favorite treats!
 tags:
   - health
   - long age
@@ -83,6 +82,4 @@ The industrial revolution will make mass-production of chocolate possible and he
 1926 – Birth of Godiva
 1930 – Nestlé makes first white chocolate, named Galak.
 1940-45 – The American army decides to include chocolate bars in soldiers' "D-Ration."
-
-
 (Source: http://caobisco.eu)
