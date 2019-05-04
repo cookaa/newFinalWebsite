@@ -3,112 +3,105 @@ templateKey: 'product-page'
 path: /products
 title: Our Chocolate
 image: /img/cocobeans.jpg
-heading: Great Chocolate With a Conscience
+heading: Bringing you Great Chocolate
 description: >-
   Cook's Chocolate is the ultimate spot for chocolate lovers who want to learn about their
-  coco's origin and support the farmers that grew it. We take the love of chocolate seriously and we’re glad to pass that passion onto others.
+  coco's origin and support the farmers that grew it. We take the love of chocolate
+  seriously and we’re glad to pass that passion onto others.
 intro:
   blurbs:
-    - image: /img/dark.jpg
+    - image: /img/darkbar.png
       text: >
-        We sell green and roasted chocolate beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of chocolate beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Dark Chocolate is a personal favorite. It is rich and full of flavor, without
+        being overbearingly sweet or bitter. Goes well with raspberries and almonds.
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
         <table>
-        <tr><td><input type="hidden" name="on0" value="Toppings">Toppings</td></tr><tr><td><select name="os0">
-        <option value="Rasberries">Rasberries $2.00 USD</option>
-        <option value="Almonds">Almonds $2.00 USD</option>
-        <option value="Blueberries">Blueberries $2.00 USD</option>
-        <option value="Hazelnuts">Hazelnuts $2.00 USD</option>
-        </select> </td></tr>
-        </table>
-        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-    - image: /img/white.jpg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-      form:
-        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <table>
-        <tr><td><input type="hidden" name="on0" value="Toppings">Toppings</td></tr><tr><td><select name="os0">
-        <option value="Rasberries">Rasberries $2.00 USD</option>
-        <option value="Almonds">Almonds $2.00 USD</option>
-        <option value="Blueberries">Blueberries $2.00 USD</option>
-        <option value="Hazelnuts">Hazelnuts $2.00 USD</option>
+        <tr><td><input type="hidden" name="on0" value="Dark Chocolate">Dark Chocolate</td></tr><tr><td><select name="os0">
+        <option value="Rasberries">Rasberries $11.00 USD</option>
+        <option value="Blueberries">Blueberries $11.00 USD</option>
+        <option value="Almonds">Almonds $11.00 USD</option>
+        <option value="All Toppings">All Toppings $12.00 USD</option>
+        <option value="No Toppings">No Toppings $10.00 USD</option>
         </select> </td></tr>
         </table>
         <input type="hidden" name="currency_code" value="USD">
-        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-    - image: /img/milk.jpg
+    - image: /img/whitebar.png
       text: >
-        Love a great cup of chocolate, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about chocolate roasting and brewing.
-        Email us or call the store for details.
+        White Chocolate offers a very creamy taste of chocolate. Creamy texture melts
+        in your mouth as you bite down. Goes great with some almonds or dark chocolate chips.
+      form:
+        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <table>
+        <tr><td><input type="hidden" name="on0" value="White Chocolate">White Chocolate</td></tr><tr><td><select name="os0">
+        <option value="Rasberries">Rasberries $11.00 USD</option>
+        <option value="Blueberries">Blueberries $11.00 USD</option>
+        <option value="Almonds">Almonds $11.00 USD</option>
+        <option value="All Toppings">All Toppings $12.00 USD</option>
+        <option value="No Toppings">No Toppings $10.00 USD</option>
+        </select> </td></tr>
+        </table>
+        <input type="hidden" name="currency_code" value="USD">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+    - image: /img/milkbar.png
+      text: >
+        Milk Chocolate is loved by many. Sweet and delicious, a wonderful treat for all.
+        Just wait till you try it with some of our special toppings!
+      form:
+        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <table>
+        <tr><td><input type="hidden" name="on0" value="Milk Chocolate">Milk Chocolate</td></tr><tr><td><select name="os0">
+        <option value="Rasberries">Rasberries $11.00 USD</option>
+        <option value="Blueberries">Blueberries $11.00 USD</option>
+        <option value="Almonds">Almonds $11.00 USD</option>
+        <option value="All Toppings">All Toppings $12.00 USD</option>
+        <option value="No Toppings">No Toppings $10.00 USD</option>
+        </select> </td></tr>
+        </table>
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----MIIIYQYJKoZIhvcNAQcEoIIIUjCCCE4CAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYCbGxvMiMPyg8huLWkIE5p8nn00eHrJJ1jLYuh0MqVARFmaRCyCJhJ2C9OO9pjjgdEaWNFYmx8ZhJiHkxAarC84C1Ozhek55VsWe+i585IQqBE1cIVZ3ZBwyeJh7E8IArp09QllHezkeefsUj7Ki3mxco66aUhiQqFvc6zYNbMd5zELMAkGBSsOAwIaBQAwggHdBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECHydS7Huo8zdgIIBuMTAvtEoOVyho0vosF5GBXV2o1jyrpPAOCW4uNOPZ8TJfWlPx8KZIuJrOzfeny5N2362OkdiGmK0niq7Iys3+OEhOj5znMjia22IWB1XSe1dsxBW41YkAO3bBwHWQvmR7aSJF5w8JaUAPz1ywY/w+m0r3eDXQ0zsW5k7vGbaUigoe3KXwmiUV6/OiqQxBXnSph8w7NirRptMVkDzf1LrmM9MEkoTK9YQawRk33fVPfHY/AscMimrDsPWtgb8dY/lcZQeSOznYxQDWgj2p7DKK3aaGKRtCt0jp8FjPJNFYOo5yLdUs+BTUzMpFSpHfJbzJNmejEpKPMPs77B18GUiA95kzcajgrAQHVF2MrI6xaxRQP5Uq08iWZmWOvTUC99Hmf9VWVRCiV32zikCx7EX/DuNZKTD3oRUPeQzteWvUIUUHOSAPFIy7ZrELeFhi+GYYPWF3goMehfQ4jX4zNoX0VkvizvzaeV5v8Srgw82zG7FQdoomYiFVz1AJCYX+98VYU8CekO47N7LM+RIkNaC3BpHUIX3J3oenmhlc4C3AKu3htJcncmCYQlsB7ZFCCr/t8+9v0fGhgONoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k+6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4+axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn+rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG+wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG+wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P+IobhOGJr85+XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa+LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMTkwNTAzMjIyNDEyWjAjBgkqhkiG9w0BCQQxFgQUjAOd9xx3Yn3KR1HCtHtqJww8dyQwDQYJKoZIhvcNAQEBBQAEgYASSwLVNTTnlRiMIV21oRSN1EYfmXXOoqHCyN2SFzJWk50Vfegc9gjEANS2vaQHBb9+i6TcvVSEYfPmTITD18YUP8JBoc5yhQTfnAlM2O/2khm7ns6xiiCMHUoFANGkR2mzsE7qjDJXLNMfd4cEiTKAtmKoT1UpM0thP0X8/+fK3g==-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+    - image: /img/toppings.png
+      text: >
+        We have selected some of our personal favorite additions for chocolate,
+        including almonds, dried blueberries, raspberries, coconut, and hazelnuts.       
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
         <table>
         <tr><td><input type="hidden" name="on0" value="Toppings">Toppings</td></tr><tr><td><select name="os0">
-        <option value="Rasberries">Rasberries $2.00 USD</option>
-        <option value="Almonds">Almonds $2.00 USD</option>
-        <option value="Blueberries">Blueberries $2.00 USD</option>
-        <option value="Hazelnuts">Hazelnuts $2.00 USD</option>
+        <option value="Rasberries">Rasberries $3.00 USD</option>
+        <option value="Blueberries">Blueberries $3.00 USD</option>
+        <option value="Almonds">Almonds $3.00 USD</option>
+        <option value="All Toppings">All Toppings $6.00 USD</option>
         </select> </td></tr>
         </table>
-        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-    - image: /img/toppings.jpg
-      text: >
-        We believe that good chocolate has the power to bring people together.
-        But adding toppings to chocolate makes them even better. Thats why we offer
-        a verity of options that you can select and add to any chocolate bar,
-        or order alone to add to your own!        
-      form:
-        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <table>
-        <tr><td><input type="hidden" name="on0" value="Toppings">Toppings</td></tr><tr><td><select name="os0">
-        <option value="Rasberries">Rasberries $2.00 USD</option>
-        <option value="Almonds">Almonds $2.00 USD</option>
-        <option value="Blueberries">Blueberries $2.00 USD</option>
-        <option value="Hazelnuts">Hazelnuts $2.00 USD</option>
-        </select> </td></tr>
-        </table>
-        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
   heading: View Your Cart
   description: >
-    Kaldi is the ultimate spot for chocolate lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take chocolate
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    We hold our chocolate to the highest standards from the tree to your hand.
+    That’s why we’re meticulous and transparent about each step of the chocolate’s
+    journey. We personally ensure each bar is perfect.
 main:
   heading: Great chocolate with no compromises
   description: >
-    We hold our chocolate to the highest standards from the shrub to the cup.
+    We hold our chocolate to the highest standards from the tree to the box.
     That’s why we’re meticulous and transparent about each step of the chocolate’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    journey. We personally ensure each bar is perfect.
   image1:
     alt: A close-up of a paper filter filled with ground chocolate
     image: /img/chocolatecookies.jpg
@@ -125,7 +118,7 @@ testimonials:
       have been eating chocolate all my life.
   - author: Philipp Trommler
     quote: >-
-      Cook's Chocolate is the place to go if you want the best quality chocolate. I love their toppings and options!
+      Cook's Chocolate is the place to go if you want the best quality chocolate. I love their toppings and options! Throw it into anything!
 full_image: /img/widecakes.jpg
 pricing:
   heading: Monthly subscriptions
@@ -141,6 +134,13 @@ pricing:
         - One or two varieties of chocolate
       plan: Small
       price: '20'
+      form:
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
     - description: 'Great for avid eaters, coco-loving couples and bigger crowds'
       items:
         - 100 bars of chocolate per month
@@ -148,6 +148,13 @@ pricing:
         - Up to 3 different types of chocolate
       plan: Large
       price: '80'
+      form:
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
     - description: 'Want a few tiny batches from different varieties? Send us a
       message and try our custom plan.'
       items:
@@ -156,4 +163,7 @@ pricing:
         - Just let us know
       plan: Custom
       price: '??'
+      form:
+
+
 ---
