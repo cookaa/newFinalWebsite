@@ -12,11 +12,8 @@ intro:
   blurbs:
     - image: /img/darkbar.png
       text: >
-        We sell green and roasted chocolate beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of chocolate beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      Dark Chocolate is a personal favorite. It is rich and full of flavor, without
+      being overbearingly sweet or bitter. Goes well with raspberries and almonds.
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -36,10 +33,8 @@ intro:
         </form>
     - image: /img/whitebar.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      White Chocolate offers a very creamy taste of chocolate. Creamy texture melts
+      in your mouth as you bite down. Goes great with some almonds or dark chocolate chips.
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -59,11 +54,8 @@ intro:
         </form>
     - image: /img/milkbar.png
       text: >
-        Love a great cup of chocolate, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about chocolate roasting and brewing.
-        Email us or call the store for details.
+      Milk Chocolate is loved by many. Sweet and delicious, a wonderful treat for all.
+      Just wait till you try it with some of our special toppings!
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -82,10 +74,8 @@ intro:
         </form>
     - image: /img/toppings.png
       text: >
-        We believe that good chocolate has the power to bring people together.
-        But adding toppings to chocolate makes them even better. Thats why we offer
-        a verity of options that you can select and add to any chocolate bar,
-        or order alone to add to your own!        
+      We have selected some of our personal favorite additions for chocolate,
+      including: almonds, dried blueberries, raspberries, coconut, and hazelnuts.       
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -103,17 +93,15 @@ intro:
         </form>
   heading: View Your Cart
   description: >
-    Kaldi is the ultimate spot for chocolate lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take chocolate
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Cook's Chocolate is the ultimate spot for chocolate lovers who want to learn about their
+    beans origin support the farmers that grew it. We take chocolate
+    seriously and we’re glad to pass that passion along for everyone!
 main:
   heading: Great chocolate with no compromises
   description: >
-    We hold our chocolate to the highest standards from the shrub to the cup.
+    We hold our chocolate to the highest standards from the tree to the box.
     That’s why we’re meticulous and transparent about each step of the chocolate’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    journey. We personally ensure each bar is perfect.
   image1:
     alt: A close-up of a paper filter filled with ground chocolate
     image: /img/chocolatecookies.jpg
