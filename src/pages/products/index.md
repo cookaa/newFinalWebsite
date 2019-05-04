@@ -100,10 +100,9 @@ intro:
 main:
   heading: Great chocolate with no compromises
   description: >
-    We hold our chocolate to the highest standards from the shrub to the cup.
+    We hold our chocolate to the highest standards from the tree to the box.
     That’s why we’re meticulous and transparent about each step of the chocolate’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    journey. We personally ensure each bar is perfect.
   image1:
     alt: A close-up of a paper filter filled with ground chocolate
     image: /img/chocolatecookies.jpg
@@ -120,7 +119,7 @@ testimonials:
       have been eating chocolate all my life.
   - author: Philipp Trommler
     quote: >-
-      Cook's Chocolate is the place to go if you want the best quality chocolate. I love their toppings and options!
+      Cook's Chocolate is the place to go if you want the best quality chocolate. I love their toppings and options! Throw it into anything!
 full_image: /img/widecakes.jpg
 pricing:
   heading: Monthly subscriptions
