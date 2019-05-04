@@ -12,8 +12,11 @@ intro:
   blurbs:
     - image: /img/darkbar.png
       text: >
-      Dark Chocolate is a personal favorite. It is rich and full of flavor, without
-      being overbearingly sweet or bitter. Goes well with raspberries and almonds.
+        We sell green and roasted chocolate beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a
+        variety of chocolate beans grown with great care for the environment and
+        local communities. Check our post or contact us directly for current
+        availability.
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -33,8 +36,10 @@ intro:
         </form>
     - image: /img/whitebar.png
       text: >
-      White Chocolate offers a very creamy taste of chocolate. Creamy texture melts
-      in your mouth as you bite down. Goes great with some almonds or dark chocolate chips.
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -54,8 +59,11 @@ intro:
         </form>
     - image: /img/milkbar.png
       text: >
-      Milk Chocolate is loved by many. Sweet and delicious, a wonderful treat for all.
-      Just wait till you try it with some of our special toppings!
+        Love a great cup of chocolate, but never knew how to make one? Bought a
+        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our baristas
+        to learn anything you want to know about chocolate roasting and brewing.
+        Email us or call the store for details.
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -74,8 +82,10 @@ intro:
         </form>
     - image: /img/toppings.png
       text: >
-      We have selected some of our personal favorite additions for chocolate,
-      including: almonds, dried blueberries, raspberries, coconut, and hazelnuts.       
+        We believe that good chocolate has the power to bring people together.
+        But adding toppings to chocolate makes them even better. Thats why we offer
+        a verity of options that you can select and add to any chocolate bar,
+        or order alone to add to your own!        
       form:
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
         <input type="hidden" name="cmd" value="_s-xclick">
@@ -100,9 +110,10 @@ intro:
 main:
   heading: Great chocolate with no compromises
   description: >
-    We hold our chocolate to the highest standards from the tree to the box.
+    We hold our chocolate to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the chocolate’s
-    journey. We personally ensure each bar is perfect.
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground chocolate
     image: /img/chocolatecookies.jpg
@@ -119,7 +130,7 @@ testimonials:
       have been eating chocolate all my life.
   - author: Philipp Trommler
     quote: >-
-      Cook's Chocolate is the place to go if you want the best quality chocolate. I love their toppings and options! Throw it into anything!
+      Cook's Chocolate is the place to go if you want the best quality chocolate. I love their toppings and options!
 full_image: /img/widecakes.jpg
 pricing:
   heading: Monthly subscriptions
@@ -135,13 +146,6 @@ pricing:
         - One or two varieties of chocolate
       plan: Small
       price: '20'
-      form:
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
     - description: 'Great for avid eaters, coco-loving couples and bigger crowds'
       items:
         - 100 bars of chocolate per month
@@ -149,13 +153,6 @@ pricing:
         - Up to 3 different types of chocolate
       plan: Large
       price: '80'
-      form:
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
     - description: 'Want a few tiny batches from different varieties? Send us a
       message and try our custom plan.'
       items:
@@ -164,7 +161,4 @@ pricing:
         - Just let us know
       plan: Custom
       price: '??'
-      form:
-
-
 ---
