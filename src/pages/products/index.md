@@ -9,7 +9,7 @@ description: >-
   coco's origin and support the farmers that grew it. We take the love of chocolate seriously and we’re glad to pass that passion onto others.
 intro:
   blurbs:
-    - image: /img/dark.jpg
+    - image: /img/darkbar.png
       text: >
         We sell green and roasted chocolate beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
